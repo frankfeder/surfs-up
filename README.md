@@ -19,7 +19,7 @@ The prompt of this exercise was to determine whether the weather was conistent e
 
 Temperature is not the only factor in determining surfing weather - it is likely that precipitation would have a much larger impact on expected revenue for a surf shop.
 
-With the available data, we could perform the following additional queries to retrieve more information:
+**With the available data, we could perform the following additional queries to retrieve more information:**
 1. How does precipitation vary between June and December?
 2. If we define an amount of precipitation to classify a "rainy day", can we identify seasonal differences in how long bad weather persists? For example, do storms usually last shorter in the Summer? If we get one rainy day in December, would we expect three more?
 3. Similar to #2, we might assume that streaks of hot temperatures would lead to more revenue for the surf shop. What are the seasonal differences in expected "hot streak" length? 
